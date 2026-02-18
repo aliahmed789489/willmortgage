@@ -23,7 +23,7 @@ const About: React.FC = () => {
       <section className="py-24">
         <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           <div>
-             <img src="https://picsum.photos/600/800" alt="Will - Mortgage Agent" className="rounded-2xl shadow-2xl grayscale-[20%]" />
+             <img src="https://images.pexels.com/photos/7821743/pexels-photo-7821743.jpeg?_gl=1*1fic5wx*_ga*MTQ3OTA4NDcwNy4xNzcwNDEzNzA1*_ga_8JE65Q40S6*czE3NzE0NTI4OTQkbzckZzEkdDE3NzE0NTMxNTIkajU5JGwwJGgw" alt="Will - Mortgage Agent" className="rounded-2xl shadow-2xl grayscale-[20%]" />
              <div className="bg-gold text-white p-6 rounded-xl -mt-12 relative z-10 mx-6 shadow-xl">
                <div className="text-3xl font-bold">10+ Years</div>
                <div className="text-xs uppercase tracking-widest font-semibold opacity-80">Experience in Canadian Markets</div>

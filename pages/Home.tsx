@@ -55,7 +55,7 @@ const Home: React.FC = () => {
           <div className="hidden lg:block">
              <div className="bg-white/5 backdrop-blur-md p-2 rounded-3xl border border-white/10 shadow-2xl">
                <img 
-                 src="https://picsum.photos/800/600" 
+                 src="https://images.pexels.com/photos/13801614/pexels-photo-13801614.jpeg?_gl=1*1a42ocl*_ga*MTQ3OTA4NDcwNy4xNzcwNDEzNzA1*_ga_8JE65Q40S6*czE3NzE0NTI4OTQkbzckZzEkdDE3NzE0NTMwNDEkajU5JGwwJGgw" 
                  alt="Will Mortgage Services Consulting" 
                  className="rounded-2xl shadow-inner grayscale-[50%]"
                />

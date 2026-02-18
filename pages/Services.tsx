@@ -57,7 +57,7 @@ const Services: React.FC = () => {
               </div>
               
               <div className="lg:w-1/2">
-                <img src={`https://picsum.photos/seed/${s.id}/800/600`} alt={s.title} className="rounded-3xl shadow-2xl" />
+                <img src={`src/image${s.id}.jpeg`} alt={s.title} className="rounded-3xl shadow-2xl" />
               </div>
             </div>
           ))}
